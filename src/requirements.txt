@@ -18,8 +18,8 @@ python-multipart==0.0.6
 email-validator
 
 # AI/ML & LLM Integration
-langchain
-langchain-community
+langchain==0.1.16
+langchain-community==0.0.36
 langchain-groq
 langchain-core
 pydantic
@@ -27,4 +27,5 @@ pydantic
 # Graph generation
 plotly==5.20.0
 pandas
+
 gunicorn
