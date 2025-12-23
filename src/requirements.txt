@@ -1,0 +1,30 @@
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+flask-sqlalchemy==3.1.1
+Flask-WTF>=1.2.0
+flask-mysqldb==2.0.0
+WTForms
+
+# Database
+sqlalchemy==2.0.23
+mysqlclient==2.2.4
+pymysql==1.1.0
+
+# File Handling
+python-multipart==0.0.6
+
+# Form email validation
+email-validator
+
+# AI/ML & LLM Integration
+langchain
+langchain-community
+langchain-groq
+langchain-core
+pydantic
+
+# Graph generation
+plotly==5.20.0
+pandas
+gunicorn
